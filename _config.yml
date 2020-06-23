@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: semihorhan_
+github_username:  semihorhan
 
 # Build settings
 theme: minimal-mistakes-jekyll 
@@ -40,6 +40,8 @@ plugins:
 
 words_per_minute         : 200
 search : true
+# search_provider: algolia
+
 defaults:
   # _posts
   - scope:
@@ -48,4 +50,17 @@ defaults:
     values:
       read_time: true
       comments: true
+
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/semihorhan_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/semihorhan"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/semihorhn"
 
