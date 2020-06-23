@@ -1,13 +1,10 @@
 # main links links
 main:       
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #  url: /markdown/
+  - title: "Quotes"
+    url: /quotes/
     
   - title: "About Me"
     url: /about/
+    
+  # - title: "CV"
+  #   url: /cv/
