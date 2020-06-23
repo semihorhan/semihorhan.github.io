@@ -50,7 +50,9 @@ defaults:
     values:
       read_time: true
       comments: true
-
+      layout: single
+      share: true
+      related: true
 
 footer:
   links:
