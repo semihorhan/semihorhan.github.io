@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Reading List"
-    url: /readingList/
+    url: /reading-list/
 
   - title: "Quotes"
     url: /quotes/
