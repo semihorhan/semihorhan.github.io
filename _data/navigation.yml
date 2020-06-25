@@ -1,10 +1,13 @@
 # main links links
-main:       
+main:
+  - title: "Reading List"
+    url: /readingList/
+
   - title: "Quotes"
     url: /quotes/
-    
+
   - title: "About Me"
     url: /about/
-    
+
   # - title: "CV"
   #   url: /cv/
